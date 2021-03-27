@@ -1,6 +1,11 @@
 # ML-using-Pycaret
 Using Pycaret to predict best model for binary classification problem and deploying the model on cloud
 
+### Selecting the juice classification dataset
+
+![image](https://user-images.githubusercontent.com/80466173/112721968-dc29ec00-8f2c-11eb-9ebf-81f608307fc7.png)
+
+
 ### List of models available
 
 ![04](https://user-images.githubusercontent.com/80466173/112721782-dbdd2100-8f2b-11eb-81f1-61e9ca22614c.PNG)
@@ -9,10 +14,11 @@ Using Pycaret to predict best model for binary classification problem and deploy
 
 ![06](https://user-images.githubusercontent.com/80466173/112721776-d7186d00-8f2b-11eb-87ce-d6e76a7286ae.PNG)
 
-
+### Check the configuration of preprocessed pipeline
 ![07](https://user-images.githubusercontent.com/80466173/112721821-0b8c2900-8f2c-11eb-8090-37a5c417b858.PNG)
 
 ![08](https://user-images.githubusercontent.com/80466173/112721822-0c24bf80-8f2c-11eb-8bb0-8d00b194a187.PNG)
+
 
 ![09](https://user-images.githubusercontent.com/80466173/112721823-0d55ec80-8f2c-11eb-8136-05bea31f1aa5.PNG)
 

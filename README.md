@@ -20,8 +20,7 @@ Using Pycaret to predict best model for binary classification problem and deploy
 ![08](https://user-images.githubusercontent.com/80466173/112721822-0c24bf80-8f2c-11eb-8bb0-8d00b194a187.PNG)
 
 
-![09](https://user-images.githubusercontent.com/80466173/112721823-0d55ec80-8f2c-11eb-8136-05bea31f1aa5.PNG)
-
+###  Check all the changes made on the server of MLflow: http://localhost:5000/
 
 ![10](https://user-images.githubusercontent.com/80466173/112721825-0dee8300-8f2c-11eb-9af2-d80e19c8d040.PNG)
 

@@ -5,7 +5,7 @@ Using Pycaret to predict best model for binary classification problem and deploy
 
 ![04](https://user-images.githubusercontent.com/80466173/112721782-dbdd2100-8f2b-11eb-81f1-61e9ca22614c.PNG)
 
-![05](https://user-images.githubusercontent.com/80466173/112721783-dc75b780-8f2b-11eb-8e7e-597ccc498454.PNG)
+### List of metrics available, metrics can be added or removed as well
 
 ![06](https://user-images.githubusercontent.com/80466173/112721776-d7186d00-8f2b-11eb-87ce-d6e76a7286ae.PNG)
 

@@ -24,7 +24,7 @@ Using Pycaret to predict best model for binary classification problem and deploy
 
 ![10](https://user-images.githubusercontent.com/80466173/112721825-0dee8300-8f2c-11eb-9af2-d80e19c8d040.PNG)
 
-
+### Improve the metrics of model using tuning and ensemble
 ![11_1](https://user-images.githubusercontent.com/80466173/112721829-0f1fb000-8f2c-11eb-91df-6e4df44ad325.PNG)
 
 ![11](https://user-images.githubusercontent.com/80466173/112721828-0e871980-8f2c-11eb-8e05-689a1b9fb33d.PNG)

@@ -1,9 +1,6 @@
 # ML-using-Pycaret
 Using Pycaret to predict best model for binary classification problem and deploying the model on cloud
 
-![01](https://user-images.githubusercontent.com/80466173/112721778-d8e23080-8f2b-11eb-8bbb-4e070a634d83.PNG)
-
-![02](https://user-images.githubusercontent.com/80466173/112721779-da135d80-8f2b-11eb-8d8a-0431621abd5a.PNG)
 
 ![03](https://user-images.githubusercontent.com/80466173/112721781-db448a80-8f2b-11eb-9f8f-fb50ddc2a10c.PNG)
 
